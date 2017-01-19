@@ -20,4 +20,6 @@ Judge the driver's status using the trained model
 
 Display the driver's status and EEG data in real time
 
- 
+## document
+
+You can get access to the details of the program in the document named 'Document for Demo Program.pdf'.
