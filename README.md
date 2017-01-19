@@ -14,7 +14,7 @@ Train & save model with the driver's EEG data (with the chosen type of SVM)
 
 Send the driver's EEG data to Data Analyzer in real-time
 
-## Module2: Data Analyzer
+## Module 2: Data Analyzer
 
 ### functions of the module:
 
