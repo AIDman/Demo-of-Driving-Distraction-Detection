@@ -6,23 +6,23 @@ A demo program of detecting whether a driver is focused on driving using one-cla
 
 ### functions of the module:
 
-Choose which driver(subject) to detect
+1. Choose which driver(subject) to detect
 
-Choose the type of SVM (one-class SVM or two-class SVM)
+2. Choose the type of SVM (one-class SVM or two-class SVM)
 
-Train & save model with the driver's EEG data (with the chosen type of SVM)
+3. Train & save model with the driver's EEG data (with the chosen type of SVM)
 
-Send the driver's EEG data to Data Analyzer in real-time
+4. Send the driver's EEG data to Data Analyzer in real-time
 
 ## Module 2: Data Analyzer
 
 ### functions of the module:
 
-Receive EEG data of the driver from Data Sender
+1. Receive EEG data of the driver from Data Sender
 
-Judge the driver's status using the trained model
+2. Judge the driver's status using the trained model
 
-Display the driver's status and EEG data in real time
+3. Display the driver's status and EEG data in real time
 
 ## Document
 
