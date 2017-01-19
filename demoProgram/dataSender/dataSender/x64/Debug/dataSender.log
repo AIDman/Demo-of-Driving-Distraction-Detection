@@ -1,0 +1,26 @@
+﻿  Moc'ing datasender.h...
+  Uic'ing datasender.ui...
+  Rcc'ing datasender.qrc...
+RCC : warning : No resources in 'C:\Users\inamer\Desktop\Demo of Driver's Distraction Detection\dataSender\dataSender\datasender.qrc'.
+  
+  datasender.cpp
+datasender.cpp(16): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(17): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(18): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(19): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(167): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(692): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(693): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(694): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(695): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(921): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(922): warning C4129: “.”: 不可识别的字符转义序列
+datasender.cpp(923): warning C4129: “.”: 不可识别的字符转义序列
+  moc_datasender.cpp
+  main.cpp
+  svm.cpp
+  正在生成代码...
+c:\users\inamer\desktop\demo of driver's distraction detection\datasender\datasender\datasender.cpp(297): warning C4715: “dataSender::ThreadSend”: 不是所有的控件路径都返回值
+  qrc_datasender.cpp
+  dataSender.vcxproj -> C:\Users\inamer\Desktop\Demo of Driver's Distraction Detection\dataSender\x64\Debug\dataSender.exe
+  dataSender.vcxproj -> C:\Users\inamer\Desktop\Demo of Driver's Distraction Detection\dataSender\x64\Debug\dataSender.pdb (Full PDB)

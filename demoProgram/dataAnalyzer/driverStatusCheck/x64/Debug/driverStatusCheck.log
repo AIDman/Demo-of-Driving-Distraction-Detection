@@ -1,0 +1,19 @@
+﻿  Moc'ing realTimeCheck.h...
+  Rcc'ing driverstatuscheck.qrc...
+RCC : warning : No resources in 'C:\Users\inamer\Desktop\Demo of Driver's Distraction Detection\dataAnalyzer\driverStatusCheck\driverstatuscheck.qrc'.
+  
+  Uic'ing realTimeCheck.ui...
+  moc_realTimeCheck.cpp
+  main.cpp
+c:\users\inamer\desktop\demo of driver's distraction detection\dataanalyzer\driverstatuscheck\driverStatusCheck.h(49): warning C4129: “.”: 不可识别的字符转义序列
+c:\users\inamer\desktop\demo of driver's distraction detection\dataanalyzer\driverstatuscheck\driverStatusCheck.h(50): warning C4129: “.”: 不可识别的字符转义序列
+c:\users\inamer\desktop\demo of driver's distraction detection\dataanalyzer\driverstatuscheck\driverStatusCheck.h(51): warning C4129: “.”: 不可识别的字符转义序列
+c:\users\inamer\desktop\demo of driver's distraction detection\dataanalyzer\driverstatuscheck\driverStatusCheck.h(52): warning C4129: “.”: 不可识别的字符转义序列
+  realTimeCheck.cpp
+realTimeCheck.cpp(170): warning C4805: “==”: 在操作中将类型“double”与类型“bool”混合不安全
+  svm.cpp
+  正在生成代码...
+c:\users\inamer\desktop\demo of driver's distraction detection\dataanalyzer\driverstatuscheck\realtimecheck.cpp(221): warning C4715: “realTimeCheckWindowClass::ThreadDetect”: 不是所有的控件路径都返回值
+  qrc_driverstatuscheck.cpp
+  driverStatusCheck.vcxproj -> C:\Users\inamer\Desktop\Demo of Driver's Distraction Detection\dataAnalyzer\x64\Debug\driverStatusCheck.exe
+  driverStatusCheck.vcxproj -> C:\Users\inamer\Desktop\Demo of Driver's Distraction Detection\dataAnalyzer\x64\Debug\driverStatusCheck.pdb (Full PDB)
