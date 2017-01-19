@@ -2,7 +2,9 @@
 
 A demo program of detecting whether a driver is focused on driving using one-class SVM & two-class SVM
 
-## Data Sender
+## Module 1: Data Sender
+
+### functions of the module:
 
 Choose which driver(subject) to detect
 
@@ -12,7 +14,9 @@ Train & save model with the driver's EEG data (with the chosen type of SVM)
 
 Send the driver's EEG data to Data Analyzer in real-time
 
-## Data Analyzer
+## Module2: Data Analyzer
+
+### functions of the module:
 
 Receive EEG data of the driver from Data Sender
 
