@@ -1,6 +1,12 @@
-# Demo-of-Driver-s-Distraction-Detection
+# Demo-of-Driving-Distraction-Detection
 
-A demo program of detecting whether a driver is focused on driving using one-class SVM & two-class SVM
+Psychological distraction is very dangerous in driving. We developed a SDA-based driving distraction approach 
+that discovers prominent features from raw spectrum of EEG data using SDA. This program is a demo how the detection
+system works.  
+
+The package implements two classifiers to discriminate normal and distraction status at the back-end (i.e., 
+when receiving the signal from SDA feature extraction), the first is a one-class SVM, and the second is a two-class SVM.
+
 
 ## Module 1: Data Sender
 
@@ -26,4 +32,14 @@ A demo program of detecting whether a driver is focused on driving using one-cla
 
 ## Document
 
-You can get access to the details of the program in the document named 'Document for Demo Program.pdf'.
+1. You can get access to the details of the program in the document named 'Document for Demo Program.pdf'.
+2. More information can be found in the associated paper 'Sparse Discriminative Analysis and Its Application in Distraction Classification'.
+
+
+## Licence
+Apache 2.0
+
+## Contact
+
+Yangqing Wang (wangyanqing@cslt.riit.tsinghua.edu.cn)
+Dong Wang (wangdong99@mails.tsinghua.edu.cn)
