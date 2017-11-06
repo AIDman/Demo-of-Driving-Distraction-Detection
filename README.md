@@ -41,5 +41,5 @@ Apache 2.0
 
 ## Contact
 
-Yangqing Wang (wangyanqing@cslt.riit.tsinghua.edu.cn)
+Yanqing Wang (wangyanqing@cslt.riit.tsinghua.edu.cn)
 Dong Wang (wangdong99@mails.tsinghua.edu.cn)
